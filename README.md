@@ -1,18 +1,20 @@
-# Olá, aqui é Murillo Miguel nos códigos !
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cc5500&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+here+is+Murillo+Miguel+in+the+code;I'm+25+years+old;I+live+in+Brazil;And+I'm+Full-Stack+Developer;Be+Welcome!+See,+how+I'm+coming+↓)](https://git.io/typing-svg)
 
-### Olhe como eu venho: 
+<h2> <h2>
+<div align="center"> 
+<a href="https://github.com/psiqe">
+    <img  width="49%" height="195px"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=psiqe&show_icons=true&bg_color=0d1117&title_color=cc5500&icon_color=DAA520&text_color=FFDEAD&hide_border=true&border_radius=5.0">
+    <img width="41%" height="195px"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=psiqe&layout=compact&bg_color=0d1117&title_color=cc5500&text_color=FFDEAD&hide_border=true&border_radius=5.0">
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=psiqe&bg_color=0d1117&color=ffffff&line=ff7e05&point=0f0f0f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div>
+    
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com/_psiqe/)
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murillomigu/)
 
 
-<a href="https://github.com/psiqe">
-    <img  width="42%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=psiqe&show_icons=true&bg_color=1c1c1c&title_color=cc5500&icon_color=DAA520&text_color=FFDEAD&hide_border=true&border_radius=5.0">
-    <img  width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=psiqe&layout=compact&bg_color=1c1c1c&title_color=cc5500&text_color=FFDEAD&hide_border=true&border_radius=5.0">
-
-
 <h2>
-    Tecnologias que uso no dia a dia
+    Technologies I use on a daily basis
 </h2>
 
 ![icons8-python-64](https://user-images.githubusercontent.com/82779468/212482946-c01af35a-f5a2-4220-b471-f8f7fd343faf.png)
@@ -25,7 +27,7 @@
 
 
 <h2>
-    Tecnologias as quais tenho experiência
+   Technologies I have experience with
 </h2> 
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -50,14 +52,21 @@
 <h1> ... </h1>
 
 <h2>
-    Ferramentas utilizadas
+    Some tools used
 </h2>
 
+![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E_)
+![](https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white)
+![](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 ![](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 <h1> ... </h1>
 
 ![octocat-1673722204769](https://user-images.githubusercontent.com/82779468/212491125-6c3f1871-e09a-4585-984e-4cd4abbccb95.png)
