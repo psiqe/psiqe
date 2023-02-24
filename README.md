@@ -9,7 +9,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=psiqe&bg_color=0d1117&color=ffffff&line=ff7e05&point=0f0f0f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div>
     
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com/_psiqe/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_psiqe/?next=%2F)
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murillomigu/)
 
 
